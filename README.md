@@ -35,4 +35,5 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dldmldlsy&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
